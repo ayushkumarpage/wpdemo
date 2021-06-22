@@ -1,1 +1,2 @@
 # wpdemo
+wp journal demo
