@@ -1,2 +1,1 @@
-# wpdemo
-wp journal demo
+# Personal Website
